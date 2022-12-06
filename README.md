@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Szymon Gamża</h1>
+<h1 align="center">Hello 👋, my name is Szymon</h1>
 <h3 align="center">A passionate backend C# / .NET developer from Poland</h3>
 
 - 🔭 I’m currently working on **Microservices project**
