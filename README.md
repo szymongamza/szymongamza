@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, my name is Szymon</h1>
 <h3 align="center">A passionate backend C# / .NET developer from Poland</h3>
 
-- 🔭 I’m currently working on **Microservices project**
-
-- 🌱 I’m currently learning **C#, .NET**
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **gamza.szymon@gmail.com**
 
